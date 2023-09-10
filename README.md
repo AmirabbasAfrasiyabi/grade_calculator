@@ -41,7 +41,7 @@ This task calculates the average GPA and saves it to a file.</i></h3>
 
 <mark>(python source.py calculate_averages input.csv output_averages.csv)<mark></h3>
 
-<h3 align="left"> 2-  Calculate the average in ascending order->\
+<h3 align="left"> 2-  Calculate the average in ascending order->
 
 <mark>(python source.py calculate_sorted_averages input.csv output_sorted_averages.csv)
 <mark></h3>
