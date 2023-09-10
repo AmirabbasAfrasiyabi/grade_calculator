@@ -1,13 +1,3 @@
-<html>
-<head>
-<style>
-mark { 
-  background-color: #41424C;
-  color: white;
-}
-</style>
-</head>
-<body>
 
 
 
@@ -82,5 +72,3 @@ This task calculates the average GPA and saves it to a file.</i></h3>
 - #### [Follow Me on github](https://github.com/AmirabbasAfrasiyabi "amirabbas afrasiyabi")
 
 <h2 align="center"><b> Thank You For Visiting 🙏</b></h2>
-</body>
-</html>
